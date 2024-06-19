@@ -1,0 +1,3 @@
+root directory= ganache-cli -h 127.0.0.1 -p 8545
+root directory = truffle migrate
+application directory = streamlit run app.py
